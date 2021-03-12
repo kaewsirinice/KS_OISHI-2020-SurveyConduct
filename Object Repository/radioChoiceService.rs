@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioChoiceService</name>
+   <tag></tag>
+   <elementGuidId>6b6dd988-533b-4c2a-adba-fcbb8d86a2db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='choice_group']/descendant::div/label/label[@class='choice_content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='choice_group']/descendant::div/label/label[@class='choice_content']</value>
+   </webElementProperties>
+</WebElementEntity>
